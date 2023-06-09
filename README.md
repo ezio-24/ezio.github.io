@@ -46,4 +46,4 @@ Check out the live demo of the application at [Click Here](https://ezio-24.githu
 
 ## License
 
-This project is licensed under the MIT License -  [Click](https://github.com/ezio-24/ezio.24.github.io/blob/main/LICENSE) here for details
+This project is licensed under the MIT License -  [Click](https://github.com/ezio-24/ezio.github.io-Coding-Ninja-IMDB_CLONE/blob/main/LICENSE) here for details

@@ -38,7 +38,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Demo
 
-Check out the live demo of the application at [Click Here](https://ezio-24.github.io/ezio.24.github.io-IMDB-CLONE/)
+Check out the live demo of the application at [Click Here](https://ezio-24.github.io/ezio.github.io-Coding-Ninja-IMDB_CLONE/)
 
 ## Authors
 
